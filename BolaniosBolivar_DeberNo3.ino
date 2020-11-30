@@ -1,3 +1,12 @@
+/* 
+Bolaños Bolivar
+DEBER No 3
+Realizar un programa de juego de preguntas. Se debe tener mínimo 8 preguntas que deben observarse en orden aleatorio. 
+La forma de visualización es por medio de comunicación serial. Su respuesta solo debe ser "SI" y "NO" ingresadas de la misma forma por comunicación serial.
+Al final de mostrar solo 5 de las 8 preguntas. Se presentan el puntaje (respuestas acertadas) en un display.
+
+Suba su enlace de su repositorio GitHub.
+*/
 
 const int A=8; //decodificador
 const int B=9; //decodificador
